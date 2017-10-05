@@ -101,7 +101,7 @@ if(isset($_POST['InputName'])==true && empty($_POST['InputName'])==false &&
 								<li><a href="#"></a>Graph Calculator</li>
 						</ul>
 						</li>
-						<li class="active"><a href="contact.html">Contact</a></li>
+						<li class="active"><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 				<div class="col-xs-2 text-right hidden-xs menu-2">
@@ -179,9 +179,9 @@ if(isset($_POST['InputName'])==true && empty($_POST['InputName'])==false &&
 						<h3>Contact Information</h3>
 						<ul>
 							<li class="address">B-117 BH-2 LNMIIT <br> Post Sumel , Via Jamdoli , Jaipur 302031</li>
-							<li class="phone"><a href="tel://1234567920">+91 9529263020</a></li>
-							<li class="email"><a href="mailto:info@yoursite.com">Quizzeria@gmail.com</a></li>
-							<li class="url"><a href="http://gettemplates.co">mystudenttalks.com</a></li>
+							<li class="phone"><a href="tel://9529263020">+91 9529263020</a></li>
+							<li class="email"><a href="pankajchanchlani4u@gmail.com">Quizzeria@gmail.com</a></li>
+							<li class="url"><a href="http://mystudenttalks.com">mystudenttalks.com</a></li>
 						</ul>
 					</div>
 
@@ -199,7 +199,7 @@ if(isset($_POST['InputName'])==true && empty($_POST['InputName'])==false &&
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1>Keep it simple</h1>
-							<h2>Free html5 templates Made by <a href="http://gettemplates.co" target="_blank">gettemplates.co</a></h2>
+							<h2>FWe are <a href="#" target="_blank">Always with u</a></h2>
 						</div>
 					</div>
 				</div>
@@ -214,7 +214,7 @@ if(isset($_POST['InputName'])==true && empty($_POST['InputName'])==false &&
 			<div class="row">
 				<div class="col-md-4 gtco-widget">
 					<h3>The Company</h3>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
+					<p></p>
 					<p><a href="#">Learn More</a></p>
 				</div>
 				<div class="col-md-2 col-md-push-1">
