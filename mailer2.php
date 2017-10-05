@@ -35,7 +35,7 @@ if(!$mail->send()) {
 	echo 'Mailer Error: ' . $mail->ErrorInfo;
 } else {
 	
-  header('location:/math/way2sms/example.php?tomob='.$info[2]);
+  //header('location:/math/way2sms/example.php?tomob='.$info[2]);
 //$mail->send();
  	  echo 'Mail Has Been Sent. We Send You Mail At Your Mail-Id Check And Change Your Password.';
     header('location:contact.php');
