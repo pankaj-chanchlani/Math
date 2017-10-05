@@ -199,7 +199,7 @@ if(isset($_POST['InputName'])==true && empty($_POST['InputName'])==false &&
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1>Keep it simple</h1>
-							<h2>FWe are <a href="#" target="_blank">Always with u</a></h2>
+							<h2>We are <a href="#" target="_blank">Always with u</a></h2>
 						</div>
 					</div>
 				</div>
@@ -252,7 +252,7 @@ if(isset($_POST['InputName'])==true && empty($_POST['InputName'])==false &&
 				<div class="col-md-12">
 					<p class="pull-left">
 						<small class="block">&copy; 2016 All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://gettemplates.co/" target="_blank">Pankaj Chanchlani</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+						<small class="block">Designed by <a href="#" target="_blank">Pankaj Chanchlani</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
 					</p>
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">
