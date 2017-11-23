@@ -1,5 +1,5 @@
 <?php
-include 'connection.php';
+//include 'connection.php';
 //$b = "Your password must contain 8 Charactars , 1 Capital letter And 1 Number And Login-Id must be Unique";
 //echo '<div style="text-align:center;"class="alert alert-danger" role="alert"><h3>';echo $b;echo '</h3></div>';
 $username="";
