@@ -1,6 +1,6 @@
 <?php
-include 'connection.php';
-session_start();
+//include 'connection.php';
+//session_start();
 $flag=1;
    if($_SERVER["REQUEST_METHOD"] == "POST") {
       $login = mysqli_real_escape_string($con,$_POST['login']);
