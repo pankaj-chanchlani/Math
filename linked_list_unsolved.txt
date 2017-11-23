@@ -1,0 +1,7 @@
+http://www.geeksforgeeks.org/given-linked-list-line-segments-remove-middle-points/
+http://www.geeksforgeeks.org/alternating-split-of-a-given-singly-linked-list/
+http://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-4/
+http://www.geeksforgeeks.org/josephus-circle-using-circular-linked-list/
+http://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/
+http://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/
+http://www.geeksforgeeks.org/flattening-a-linked-list/
