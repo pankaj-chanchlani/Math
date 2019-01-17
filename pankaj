@@ -1,0 +1,5 @@
+else if(A[j]<A[i])
+                {
+                    s.push_back(A[j]);
+                    break;
+                }
